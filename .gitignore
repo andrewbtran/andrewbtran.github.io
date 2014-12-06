@@ -1,0 +1,10 @@
+.sass-cache
+.tmp
+/node_modules
+PROD.jpt
+git.sh
+index.html
+globeproject.sublime-workspace
+data/andrewbtrangithubio.html
+data/andrewbtrangithubio_files
+parts/globe
